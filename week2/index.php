@@ -9,7 +9,7 @@
   </head>
   <body>
 
-  <!--PHP Command-->
+  <!--Title-->
   <?php echo "<h1>Welcome!</h1><p> Let's learn! </p>"; ?>
 
   <!--Unordered List-->
@@ -20,8 +20,6 @@
     <li>Item 3</li>
   </ul>"
     ?>
-
-
 
   <?php
   $fName = 'Ozan';
